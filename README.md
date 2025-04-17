@@ -66,7 +66,7 @@
 <div style="font-size: 1.2em;">
 <ul>
   <li>:bust_in_silhouette: I'm Nguyen Tuan Anh, based in Me Linh, Hanoi</li>
-  <li>:computer: Studying Web Development at FPT Polytechnic</li>
+  <li>:computer: Studying Backend Web Development at FPT Polytechnic</li>
   <li>:hammer: Learning PHP, Laravel, API, Figma, Bootstrap, JavaScript, MySQL, Git,</li>
   <li>:rocket: Passionate about building dynamic web applications</li>
   <li>:zap: Fun fact: I enjoy late-night coding and creating sleek UI designs</li>
